@@ -1,86 +1,75 @@
 <div align="center">
-
-<p><code>stromtroppah@github ~ $ ./maintainer.sh</code></p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Faaiz Omar Surya Gandana animated maintainer system scan" />
-</picture>
-</p>
+<img src= "https://github.com/STROMtROPPAH/STROMtROPPAH/blob/main/github-header-banner.png" />
 </div>
 
-<h2>Why I build in public</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>Python</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>5 public repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>57 contributions · 29 active days</p></td>
-</tr>
-</table>
-
-<p>Faculty of Computer Science and Information Technology(Software Engineering)</p>
-
-<h2>Open-source toolbox</h2>
-
-<p><code>stromtroppah@github ~ $ toolbox --list</code></p>
+<h1 align="center">Hi 👋, I'm Omar</h1>
+<h3 align="center">Software Engineering Student 🌍</h3>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Faaiz Omar Surya Gandana open-source technology toolbox" />
-</picture>
+<a href="https://github.com/STROMtROPPAH">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+cool+things+with+code;Open+source+enthusiast;Always+learning+something+new" alt="Typing SVG" />
+</a>
 </p>
 
-<table width="100%">
-<tr>
-<td width="100%" align="center"><strong>Python</strong><br /><sub>100%</sub></td>
-</tr>
-</table>
+---
 
-<h2>Repositories worth exploring</h2>
+### 👨‍💻 About Me
+
+- 🎓 I'm a software engineering student
+- 🌱 I'm currently learning **Java and Python**
+- 👯 I'm looking to collaborate on **open source projects**
+- 📫 How to reach me: **linked in**
+- ⚡ Fun fact: **I have two cats Kenzo and Motaz**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+<p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</p>
+
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&repos=stromtroppah%2FMy-python-journey-Bismillah%2Cstromtroppah%2FVE&v=oss-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&repos=stromtroppah%2FMy-python-journey-Bismillah%2Cstromtroppah%2FVE&v=oss-projects-1&mode=dark" width="860" alt="Faaiz Omar Surya Gandana maintainer repositories" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=STROMtROPPAH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STROMtROPPAH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
-
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/STROMtROPPAH/VE">VE</a></h3><p>A public project looking for its next contributor.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Contribution activity</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&style=terminal&v=oss-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Faaiz Omar Surya Gandana open-source signal" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=STROMtROPPAH&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<h2>Contribution trail</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Faaiz Omar Surya Gandana contribution trail" />
-</picture>
 </p>
 
-<hr />
+---
 
-<h2>Contribute together</h2>
 
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
 
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=stromtroppah&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F252549466%3Fv%3D4&v=oss-social-1&mode=dark" width="100%" alt="Faaiz Omar Surya Gandana community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/stromtroppah">GitHub</a></p>
-<p align="center"><sub>Faaiz Omar Surya Gandana · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/STROMtROPPAH" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/STROMtROPPAH" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:your.email@example.com">
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=STROMtROPPAH&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
